@@ -1,0 +1,14 @@
+
+.color-star{
+    color:#eb771f;
+}
+.color-theme{
+   background-color:#eb771f;
+}
+.bg-image{
+    background-image: url(./Photos/bannar.png);
+    height: 80vh;
+    background-size:cover;
+    background-position:center;
+ 
+}
